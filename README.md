@@ -19,8 +19,7 @@ output
   { troopName: 'gunsmen', troopNumber: 112 }
 ]
 ```
-2.
-1. 
+2. 
 Command
 ```bash
 npm start create 500 spearmen swordsmen gunsmens archers
