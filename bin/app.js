@@ -14,7 +14,7 @@ const options = yargs
  }
  
 let units=yargs.argv._
-if(Number.isInteger(units)){
+if(Number.isInteger(units[0])){
     console.log("please enter a valid army number")
     return
 }
